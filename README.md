@@ -1,2 +1,2 @@
-# pthread_concurrency_test
-Mini class concurrency project using pthread
+## Compile TestCar.cpp
+g++ -o final main.cpp intersection.h car.h -lpthread
